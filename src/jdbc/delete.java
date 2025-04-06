@@ -28,7 +28,7 @@ public class delete {
  				System.out.println("successfully deleted");
  			  } 
  			  else {
- 				System.out.println("error");
+ 				System.out.println("error deleting");
  			  }
  			conn.close();
  			pmst.close();
